@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="nav_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/ic_col"
+            android:icon="@drawable/ic_col"
+            android:title="@string/torne_se_colaborador" />
+        <item
+            android:id="@+id/ic_book"
+            android:icon="@drawable/ic_book"
+            android:title="@string/g_neros" />
+        <item
+            android:id="@+id/ic_cont"
+            android:icon="@drawable/ic_cont"
+            android:title="@string/contato" />
+        <item
+            android:id="@+id/ic_info"
+            android:icon="@drawable/ic_info"
+            android:title="@string/sobre" />
+    </group>
+
+</menu>

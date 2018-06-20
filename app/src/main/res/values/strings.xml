@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name0">Marbook</string>
+    <string name="app_name">Login</string>
+    <string name="app_name1">Pagina Inicial</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_name2">Cadastro</string>
+    <string name="app_name3">Reserva de compra</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entre</string>
+    <string name="action_sign_in_short">Inscreva-se</string>
+    <string name="error_invalid_email">Este endereço de email é inválido</string>
+    <string name="error_invalid_password">Esta senha é muito curta</string>
+    <string name="error_incorrect_password">Esta senha está incorreta</string>
+    <string name="error_field_required">Este campo é obrigatório</string>
+    <string name="permission_rationale">"Permissões de contatos são necessárias para fornecer e-mail."
+    </string>
+    <string name="todo">TODO</string>
+    <string name="n_cad">Não possui cadastro?</string>
+    <string name="cadastro">Cadastre-se</string>
+
+
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="senha">Senha *</string>
+    <string name="telefone">Telefone *</string>
+    <string name="telefone2">Telefone 2</string>
+    <string name="email">Email *</string>
+    <string name="campos_obrigat_rios">(*) Campos obrigatórios</string>
+    <string name="para_tornar_se_colaborador">Para tornar-se colaborador</string>
+    <string name="rua">Rua *</string>
+    <string name="bairro">Bairro *</string>
+    <string name="numero">Número *</string>
+    <string name="complem">Complemento</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="cad">Cadastrar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="torne_se_colaborador">Torne-se colaborador</string>
+    <string name="g_neros">Gêneros</string>
+    <string name="contato">Contato</string>
+    <string name="sobre">Sobre</string>
+    <string name="nav_header_desc">Bem-vindo!</string>
+    <string name="nav_header_subtitle">marbook.sebodelivros@gmail.com</string>
+    <string name="encontre_seu_livro_aqui">Encontre seu livro aqui!</string>
+    <string name="digite_o_titulo">Digite o título</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="conta">Minha conta</string>
+    <string name="search_hint">Digite o título do livro</string>
+    <string name="esqueceu_a_senha_clique_aqui">Esqueceu a senha? Clique aqui!</string>
+    <string name="nome">Nome *</string>
+    <string name="todo1">TODO</string>
+    <string name="livro">Livro:</string>
+    <string name="preco">Preço: R$</string>
+    <string name="descricao">Descrição:</string>
+    <string name="comprar">Comprar</string>
+    <string name="titulo">Título</string>
+    <string name="reserve_uma_data">Reserve uma data</string>
+    <string name="selecione_o_dia_para_buscar">Selecione o dia para buscar.</string>
+    <string name="fecha">fecha</string>
+    <string name="action_cad">Cadastre-se</string>
+    <string name="esq_senha">Esqueceu a senha? Clique aqui!</string>
+    <string name="se_n_o_possui_cadastro">Se você não possui cadastro</string>
+    <string name="Livro">Livro</string>
+    <string name="titulodolvro">Título do Livro</string>
+    <string name="codigo">Código da Compra</string>
+    <string name="codigodacompra">Código da Compra</string>
+    <string name="CodCompra">COD. Compra</string>
+    <string name="can">Cancelar</string>
+    <string name="comp">Comprar</string>
+
+
+</resources>
